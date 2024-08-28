@@ -1,6 +1,5 @@
 #include "tcp_sender.hh"
 #include "tcp_config.hh"
-#include <iostream>
 #include <random>
 
 using namespace std;

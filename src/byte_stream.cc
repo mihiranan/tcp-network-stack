@@ -4,7 +4,6 @@
 // a writer and a reader with a specified capacity.
 
 #include "byte_stream.hh"
-#include <stdexcept>
 
 using namespace std;
 
