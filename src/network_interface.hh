@@ -6,12 +6,8 @@
 #include "ipv4_datagram.hh"
 
 #include <deque>
-#include <iostream>
-#include <list>
 #include <optional>
-#include <queue>
 #include <unordered_map>
-#include <utility>
 #include <vector>
 
 using namespace std;

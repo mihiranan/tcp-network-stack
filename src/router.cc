@@ -1,8 +1,6 @@
 #include "router.hh"
 
 #include "address.hh"
-#include <iostream>
-#include <limits>
 
 using namespace std;
 

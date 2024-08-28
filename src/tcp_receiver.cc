@@ -1,6 +1,5 @@
 #include "tcp_receiver.hh"
 #include "wrapping_integers.hh"
-#include <cmath>
 #include <cstdlib>
 using namespace std;
 
