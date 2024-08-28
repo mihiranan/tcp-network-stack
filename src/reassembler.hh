@@ -1,6 +1,7 @@
 #pragma once
 #include "byte_stream.hh"
 #include <string>
+#include <vector>
 
 using namespace std;
 class Reassembler
