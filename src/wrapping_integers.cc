@@ -1,6 +1,6 @@
 #include "wrapping_integers.hh"
-#include <cmath>
 #include <cstdlib>
+#include <algorithm>
 
 using namespace std;
 

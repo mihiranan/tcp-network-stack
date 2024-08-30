@@ -3,6 +3,8 @@
 #include "arp_message.hh"
 #include "ethernet_frame.hh"
 
+#include <iostream>
+
 using namespace std;
 
 // ethernet_address: Ethernet (what ARP calls "hardware") address of the interface
